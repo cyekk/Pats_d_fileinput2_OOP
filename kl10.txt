@@ -1,0 +1,2 @@
+Skolens1(10.kl) ; 21.viteta ; 5
+Skolens2(10.kl) ; 6.vieta ; 8

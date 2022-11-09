@@ -1,0 +1,3 @@
+Skolens1(11.kl) ; 3.vieta ; 8.7
+Skolens2(11.kl) ; 1.vieta ; 10
+Skolens3(11.kl) ; 2.vieta ; 9.3
